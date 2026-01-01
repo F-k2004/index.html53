@@ -10,7 +10,7 @@ canvas{display:block}
   position:absolute;left:16px;top:16px;
   padding:14px 18px;border-radius:14px;
   background:rgba(255,255,255,0.06);
-  ackdrop-filter:blur(10px);
+  backdrop-filter:blur(10px);
   color:#d9f3ff;font-size:13px;min-width:300px;
 }
 .chart{
